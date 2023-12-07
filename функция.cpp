@@ -2,7 +2,6 @@
 using namespace std;
 
 int main() {
-	setlocale(LC_ALL, "RUS");
 	float S = 0;
 	float u = 1;
 	float i = 1;
